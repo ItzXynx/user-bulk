@@ -19,3 +19,4 @@ if __name__ == "__main__":
             print(f"{uid}: {u.get('username')} flags={u.get('public_flags', 0)}")
         except:
             print(f"{uid}: not found")
+# updated
