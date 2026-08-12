@@ -5,3 +5,4 @@ fetch info for multiple users at once
 ```
 python main.py TOKEN ID1 ID2 ID3
 ```
+
